@@ -1,0 +1,19 @@
+{
+  "name": "weui",
+  "filename": "jquery-weui.js",
+  "version": "0.7.2",
+  "description": "整合了weui机jqury的ui框架",
+  "homepage": "https://github.com/lihongxun945/jquery-weui",
+  "keywords": ["weui", "jquery"],
+  "maintainers": [
+	{
+	  "name": "lihongxun945",
+	}
+  ],
+  "repositories": [
+	{
+	  "type": "git",
+	  "url": "https://lihongxun945.github.io/jquery-weui/"
+	}
+  ]
+}
